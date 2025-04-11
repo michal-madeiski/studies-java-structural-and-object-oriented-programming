@@ -1,5 +1,5 @@
 # Structural and Object Oriented Programming  - laboratory classes
-__stage of studies: year 1 semester 1__
+__stage of studies: 1st year, 1st semester__
 
 Each lab class dir contains an implementation of tasks about the given topic.
 
