@@ -1,7 +1,7 @@
 # Structural and Object Oriented Programming  - laboratory classes
 __stage of studies: year 1 semester 1__
 
-Each lab class dir contains a implementation of tasks about the given topic.
+Each lab class dir contains an implementation of tasks about the given topic.
 
 * Lab1 - basics of java part 1
 * Lab2 - basics of java part 2
@@ -18,4 +18,4 @@ Each lab class dir contains a implementation of tasks about the given topic.
 * Lab13 - data serialization
 * Lab14 - observer pattern
 
-_Lab[number] is a one-week homework assignment.<br>_
+_Lab[number] is a one-week homework assignment._
