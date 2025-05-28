@@ -10,7 +10,7 @@ Each lab class dir contains an implementation of tasks about the given topic.
 * Lab5 - 1D arrays
 * Lab6 - 2D arrays
 * Lab7 - arrays of objects
-* Lab8 - object oriented-programming
+* Lab8 - object-oriented programming
 * Lab9 - strategy pattern
 * Lab10 - txt file I/O operations
 * Lab11 - console I/O operations
